@@ -1,3 +1,76 @@
+# O našoj aplikaciji
+
+## Ciljevi
+
+### Motivisanje promjene u ponašanju
+* Manje CO₂ emisije kroz tokenizaciju ekološki odgovornog ponašanja
+* Motivacija za odabir održivih alternativa za svakodnevne aktivnosti
+
+### Skalabilnost i primjenjivost
+* Rješenje primjenjivo u mnogim sektorima i oblastima
+* Jednostavno i pravovremeno nagrađivanje odgovornog ponašanja
+
+## Rješenje
+
+### Nagrade za odgovornost
+* Biranje ekološki osviještenih aktivnosti i alternativa se nagrađuje tokenima
+
+### Kumulativni efekt
+* Malim pojedinačnim doprinosima jedna zajednica pravi veliki kumulativni učinak u svojoj okolini
+
+### Vrijednost tokena
+* Partnerske kompanije, vladine i nevladine institucije nude popuste, benefite i nagrade u zamjenu za tokene
+
+### Leaderboard
+* Prijatelji i organizacije se mogu rangirati i takmičiti u svojim rezultatima
+
+### Uvid u rezultate
+* Pojedinci mogu da jasno vide pozitivan učinak koji imaju svojim aktivnostima i odlukama
+
+## Biznis prilike
+
+### Za partnerske kompanije
+* **Pristup novim klijentima** – Povežite se s ciljanim korisnicima i proširite svoju bazu kupaca kroz personalizovane ponude i automatizaciju prodajnih procesa.
+
+* **Marketing prilike** – Iskoristite analitiku i ciljanje kako biste poboljšali vidljivost brenda i efikasnost promotivnih kampanja.
+
+* **Usluge izvještavanja** – Donosite informisane odluke uz detaljne izvještaje o finansijama, tržištu i ponašanju kupaca.
+
+* **Isticanje na tržištu** – Koristite inovativna rješenja kako biste poboljšali konkurentsku prednost i učvrstili svoj imidž lidera.
+
+* **Zelen javni imidž** – Unaprijedite održivost poslovanja kroz optimizaciju resursa i ekološki prihvatljive prakse.
+
+### Za gradove i opštine
+* **Angažman građana u ekološkim aktivnostima** – Povećajte svijest i učešće građana kroz digitalne alate i interaktivne kampanje.
+
+* **Usluge izvještavanja** – Pristupite preciznim podacima i analizama koji olakšavaju donošenje odluka i praćenje ekoloških ciljeva.
+
+* **Motivacija za reciklažu** – Uvedite podsticaje i programe koji građane motivišu na odgovorno upravljanje otpadom.
+
+* **Smanjena potrošnja energije** – Optimizujte potrošnju resursa kroz pametna rješenja i održive strategije.
+
+* **Privlačenje investicija i fondova** – Povećajte ekonomske mogućnosti kroz projekte koji ispunjavaju ekološke standarde i privlače eksterne izvore finansiranja.
+
+### Naša prilika
+* **Marketing ekološki osviještenih brendova** – Pružamo prostor za promociju brendova koji podržavaju održivost, povezujući ih s ekološki osviještenim potrošačima.
+
+* **Integracija sa javnim uslugama** – Omogućavamo lokalnim vlastima efikasniju implementaciju ekoloških inicijativa uz napredne digitalne alate.
+
+* **Partnerstva sa trgovinama** – Saradnja s maloprodajnim lancima omogućava kreiranje programa lojalnosti i nagrađivanja kupaca za ekološki odgovorno ponašanje.
+
+* **Subvencije i grantovi** – Kroz projekte u oblasti održivosti i zaštite okoliša, otvaramo mogućnosti za finansiranje iz javnih i privatnih izvora.
+
+## Naredni koraci
+
+### Povratne informacije
+Vaša mišljenja su ključna u daljem razvoju sistema i prilagođavanju potrebama tržišta!
+
+### Dalji razvoj
+Trenutni MVP je tek prvi korak u procesu razvoja stvarnog sistema. Da bi sistem opstao u dinamičnom tržištu, potrebno je raditi na njegovom razvoju!
+
+### Finansiranje i podrška
+Dalji razvoj nije moguć bez finansiranja i podrške od zainteresiranih strana te je ovo prvi i možda najbitniji korak
+
 # Laravel Project Setup Guide
 
 ## Preduslovi
@@ -88,77 +161,3 @@ php artisan serve
 ```
 
 Aplikacija će biti dostupna na adresi: ```http://127.0.0.1:8000```.
-
-
-# O našoj aplikaciji
-
-## Ciljevi
-
-### Motivisanje promjene u ponašanju
-* Manje CO₂ emisije kroz tokenizaciju ekološki odgovornog ponašanja
-* Motivacija za odabir održivih alternativa za svakodnevne aktivnosti
-
-### Skalabilnost i primjenjivost
-* Rješenje primjenjivo u mnogim sektorima i oblastima
-* Jednostavno i pravovremeno nagrađivanje odgovornog ponašanja
-
-## Rješenje
-
-### Nagrade za odgovornost
-* Biranje ekološki osviještenih aktivnosti i alternativa se nagrađuje tokenima
-
-### Kumulativni efekt
-* Malim pojedinačnim doprinosima jedna zajednica pravi veliki kumulativni učinak u svojoj okolini
-
-### Vrijednost tokena
-* Partnerske kompanije, vladine i nevladine institucije nude popuste, benefite i nagrade u zamjenu za tokene
-
-### Leaderboard
-* Prijatelji i organizacije se mogu rangirati i takmičiti u svojim rezultatima
-
-### Uvid u rezultate
-* Pojedinci mogu da jasno vide pozitivan učinak koji imaju svojim aktivnostima i odlukama
-
-## Biznis prilike
-
-### Za partnerske kompanije
-* **Pristup novim klijentima** – Povežite se s ciljanim korisnicima i proširite svoju bazu kupaca kroz personalizovane ponude i automatizaciju prodajnih procesa.
-
-* **Marketing prilike** – Iskoristite analitiku i ciljanje kako biste poboljšali vidljivost brenda i efikasnost promotivnih kampanja.
-
-* **Usluge izvještavanja** – Donosite informisane odluke uz detaljne izvještaje o finansijama, tržištu i ponašanju kupaca.
-
-* **Isticanje na tržištu** – Koristite inovativna rješenja kako biste poboljšali konkurentsku prednost i učvrstili svoj imidž lidera.
-
-* **Zelen javni imidž** – Unaprijedite održivost poslovanja kroz optimizaciju resursa i ekološki prihvatljive prakse.
-
-### Za gradove i opštine
-* **Angažman građana u ekološkim aktivnostima** – Povećajte svijest i učešće građana kroz digitalne alate i interaktivne kampanje.
-
-* **Usluge izvještavanja** – Pristupite preciznim podacima i analizama koji olakšavaju donošenje odluka i praćenje ekoloških ciljeva.
-
-* **Motivacija za reciklažu** – Uvedite podsticaje i programe koji građane motivišu na odgovorno upravljanje otpadom.
-
-* **Smanjena potrošnja energije** – Optimizujte potrošnju resursa kroz pametna rješenja i održive strategije.
-
-* **Privlačenje investicija i fondova** – Povećajte ekonomske mogućnosti kroz projekte koji ispunjavaju ekološke standarde i privlače eksterne izvore finansiranja.
-
-### Naša prilika
-* **Marketing ekološki osviještenih brendova** – Pružamo prostor za promociju brendova koji podržavaju održivost, povezujući ih s ekološki osviještenim potrošačima.
-
-* **Integracija sa javnim uslugama** – Omogućavamo lokalnim vlastima efikasniju implementaciju ekoloških inicijativa uz napredne digitalne alate.
-
-* **Partnerstva sa trgovinama** – Saradnja s maloprodajnim lancima omogućava kreiranje programa lojalnosti i nagrađivanja kupaca za ekološki odgovorno ponašanje.
-
-* **Subvencije i grantovi** – Kroz projekte u oblasti održivosti i zaštite okoliša, otvaramo mogućnosti za finansiranje iz javnih i privatnih izvora.
-
-## Naredni koraci
-
-### Povratne informacije
-Vaša mišljenja su ključna u daljem razvoju sistema i prilagođavanju potrebama tržišta!
-
-### Dalji razvoj
-Trenutni MVP je tek prvi korak u procesu razvoja stvarnog sistema. Da bi sistem opstao u dinamičnom tržištu, potrebno je raditi na njegovom razvoju!
-
-### Finansiranje i podrška
-Dalji razvoj nije moguć bez finansiranja i podrške od zainteresiranih strana te je ovo prvi i možda najbitniji korak
